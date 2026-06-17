@@ -1,2 +1,6 @@
 # conflito individual
-linha de decisão: versão do instrutor
+
+linha de decisão final:
+ - versão do instrutor
+ - minha versão
+
