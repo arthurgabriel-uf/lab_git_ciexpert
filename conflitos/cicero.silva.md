@@ -1,3 +1,2 @@
-#conflito individual
-linha de decisão: versão inical
-EOF
+# conflito individual
+linha de decisão: versão inicial
